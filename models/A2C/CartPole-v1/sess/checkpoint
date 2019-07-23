@@ -1,0 +1,6 @@
+model_checkpoint_path: "reward(500).ckpt"
+all_model_checkpoint_paths: "reward(476).ckpt"
+all_model_checkpoint_paths: "reward(481).ckpt"
+all_model_checkpoint_paths: "reward(492).ckpt"
+all_model_checkpoint_paths: "reward(496).ckpt"
+all_model_checkpoint_paths: "reward(500).ckpt"
